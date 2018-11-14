@@ -1,0 +1,18 @@
+table {
+  min-width: 600px;
+  min-height: 600px;
+  order-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.block{
+  background-color: #687387;
+}
+
+.full{
+  background-color: #0147c6;
+}
